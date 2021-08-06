@@ -1,0 +1,16 @@
+{
+  "name": "Web Development Internship Assignment",
+  "short_name": "Assignment",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "92x92",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#202c37",
+  "theme_color": "#202c37"
+}
